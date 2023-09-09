@@ -47,7 +47,7 @@ a {
     min-width: 130px;
     height: var(--height);
     line-height: var(--height);
-    border: 1px solid rgb(0, 9, 88, 0.7);
+    border: 1px solid #000958;
     border-radius: 99px;
     color: #000958;
     text-align: center;
@@ -55,13 +55,8 @@ a {
     font-weight: 600;
 }
 
-.btn:hover {
-    opacity: 0.8;
-}
-
 /* header */
 .header {
-    padding: 26px 0;
 }
 
 .header__inner {
@@ -74,7 +69,7 @@ a {
     display: flex;
 }
 
-.navbar__link,
+.navar__link,
 .header-action__link {
     padding: 8px 18px;
     color: #5e6085;
@@ -83,13 +78,5 @@ a {
     line-height: 1; /* 100% */
 }
 
-.navbar__link:hover {
-    color: #000958;
-    text-shadow: 1px 0 0 currentColor;
-}
-
 .header-action__btn {
-    --height: 50px;
-
-    min-width: 117px;
 }

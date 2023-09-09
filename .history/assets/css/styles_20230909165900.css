@@ -55,10 +55,6 @@ a {
     font-weight: 600;
 }
 
-.btn:hover {
-    opacity: 0.8;
-}
-
 /* header */
 .header {
     padding: 26px 0;
@@ -85,6 +81,7 @@ a {
 
 .navbar__link:hover {
     color: #000958;
+
     text-shadow: 1px 0 0 currentColor;
 }
 
