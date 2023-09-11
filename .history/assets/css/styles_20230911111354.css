@@ -425,7 +425,6 @@ a {
 }
 
 .about__img-wrap-bottom {
-    width: 458px;
     margin-left: 0;
     border-radius: 18px;
     border: 2px solid #fff;
@@ -466,6 +465,4 @@ a {
     right: 19px;
 }
 .about__decor-img:nth-child(6) {
-    bottom: 225px;
-    right: -34px;
 }

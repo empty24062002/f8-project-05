@@ -425,7 +425,6 @@ a {
 }
 
 .about__img-wrap-bottom {
-    width: 458px;
     margin-left: 0;
     border-radius: 18px;
     border: 2px solid #fff;
@@ -454,18 +453,14 @@ a {
     right: 13px;
 }
 .about__decor-img:nth-child(3) {
-    top: 33px;
-    right: -21px;
 }
 .about__decor-img:nth-child(4) {
-    bottom: -55px;
-    right: -42px;
 }
 .about__decor-img:nth-child(5) {
-    bottom: 150px;
-    right: 19px;
 }
 .about__decor-img:nth-child(6) {
-    bottom: 225px;
-    right: -34px;
+}
+.about__decor-img:nth-child(7) {
+}
+.about__decor-img:nth-child(8) {
 }
